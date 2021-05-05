@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.cfafd6f4.chunk.css",
-    "main.js": "/static/js/main.77720a15.chunk.js",
-    "main.js.map": "/static/js/main.77720a15.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a6953a35.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a6953a35.js.map",
-    "static/js/2.c34c14f4.chunk.js": "/static/js/2.c34c14f4.chunk.js",
-    "static/js/2.c34c14f4.chunk.js.map": "/static/js/2.c34c14f4.chunk.js.map",
-    "static/js/3.dbdf077e.chunk.js": "/static/js/3.dbdf077e.chunk.js",
-    "static/js/3.dbdf077e.chunk.js.map": "/static/js/3.dbdf077e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.cfafd6f4.chunk.css.map": "/static/css/main.cfafd6f4.chunk.css.map",
-    "static/js/2.c34c14f4.chunk.js.LICENSE.txt": "/static/js/2.c34c14f4.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/epicencountersstuff/static/css/main.cfafd6f4.chunk.css",
+    "main.js": "/epicencountersstuff/static/js/main.77720a15.chunk.js",
+    "main.js.map": "/epicencountersstuff/static/js/main.77720a15.chunk.js.map",
+    "runtime-main.js": "/epicencountersstuff/static/js/runtime-main.13a3f819.js",
+    "runtime-main.js.map": "/epicencountersstuff/static/js/runtime-main.13a3f819.js.map",
+    "static/js/2.c34c14f4.chunk.js": "/epicencountersstuff/static/js/2.c34c14f4.chunk.js",
+    "static/js/2.c34c14f4.chunk.js.map": "/epicencountersstuff/static/js/2.c34c14f4.chunk.js.map",
+    "static/js/3.dbdf077e.chunk.js": "/epicencountersstuff/static/js/3.dbdf077e.chunk.js",
+    "static/js/3.dbdf077e.chunk.js.map": "/epicencountersstuff/static/js/3.dbdf077e.chunk.js.map",
+    "index.html": "/epicencountersstuff/index.html",
+    "static/css/main.cfafd6f4.chunk.css.map": "/epicencountersstuff/static/css/main.cfafd6f4.chunk.css.map",
+    "static/js/2.c34c14f4.chunk.js.LICENSE.txt": "/epicencountersstuff/static/js/2.c34c14f4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/epicencountersstuff/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6953a35.js",
+    "static/js/runtime-main.13a3f819.js",
     "static/js/2.c34c14f4.chunk.js",
     "static/css/main.cfafd6f4.chunk.css",
     "static/js/main.77720a15.chunk.js"
