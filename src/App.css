@@ -63,6 +63,13 @@ a {
   -moz-box-shadow: 16px 16px 19px 0px rgba(26,26,26,0.75);
 }
 
+.project:active {
+  box-shadow: 10px 10px 19px 0px rgba(26,26,26,0.96);
+  -webkit-box-shadow: 10px 10px 19px 0px rgba(26,26,26,0.96);
+  -moz-box-shadow: 10px 10px 19px 0px rgba(26,26,26,0.96);
+  transform: translate(0px, 0px);
+}
+
 .project-header {
   color: #61dafb;
   font-size: 30px;
