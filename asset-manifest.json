@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/epicencountersstuff/static/css/main.cfafd6f4.chunk.css",
+    "main.css": "/epicencountersstuff/static/css/main.a1059065.chunk.css",
     "main.js": "/epicencountersstuff/static/js/main.77720a15.chunk.js",
     "main.js.map": "/epicencountersstuff/static/js/main.77720a15.chunk.js.map",
     "runtime-main.js": "/epicencountersstuff/static/js/runtime-main.13a3f819.js",
@@ -10,14 +10,14 @@
     "static/js/3.dbdf077e.chunk.js": "/epicencountersstuff/static/js/3.dbdf077e.chunk.js",
     "static/js/3.dbdf077e.chunk.js.map": "/epicencountersstuff/static/js/3.dbdf077e.chunk.js.map",
     "index.html": "/epicencountersstuff/index.html",
-    "static/css/main.cfafd6f4.chunk.css.map": "/epicencountersstuff/static/css/main.cfafd6f4.chunk.css.map",
+    "static/css/main.a1059065.chunk.css.map": "/epicencountersstuff/static/css/main.a1059065.chunk.css.map",
     "static/js/2.c34c14f4.chunk.js.LICENSE.txt": "/epicencountersstuff/static/js/2.c34c14f4.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/epicencountersstuff/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.13a3f819.js",
     "static/js/2.c34c14f4.chunk.js",
-    "static/css/main.cfafd6f4.chunk.css",
+    "static/css/main.a1059065.chunk.css",
     "static/js/main.77720a15.chunk.js"
   ]
 }
