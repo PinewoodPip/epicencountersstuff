@@ -18,6 +18,11 @@ var projects = {
     description: "A list of all gear modifiers compatible with the Greatforge combine option. Also has a link to a more extensive spreadsheet with more technical data.",
     link: "https://www.pinewood.team/ee2gearmods/",
   },
+  SkillViewer: {
+    name: "Skill Viewer",
+    description: "A website that displays all the skills in the game, with complete tooltips and support for Epip Encounters and Derpy's Tweaks.",
+    link: "https://www.pinewood.team/skillviewer/",
+  },
   AscensionTool: {
     name: "Ascension Path Tool",
     description: "A tool that finds the shortest paths towards your chosen Aspects. Can also search for the most point-efficient self-sustained builds, or maximize embodiments.",
